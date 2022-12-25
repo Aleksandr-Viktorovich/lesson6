@@ -1,0 +1,33 @@
+.hero__wrapper {
+  background-image: url("../img/banner.jpg");
+  max-width: 1770px;
+  height: 480px;
+}
+
+.hero__title {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 130%;
+  color: #FFFFFF;
+  padding-top: 145px;
+  padding-left: 112px;
+  margin-bottom: 100px;
+}
+
+.hero__sale {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 130%;
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.hero__day {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 130%;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: pre-wrap;
+}
